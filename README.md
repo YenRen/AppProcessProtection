@@ -1,4 +1,6 @@
 # AppProcessProtection
-onePxactivity for app process protection
+
 应用的进程保活
 =========
+1.应用在屏幕熄灭之后不会被系统杀死 ， 浮窗消失。
+2.屏亮时。浮窗出现
